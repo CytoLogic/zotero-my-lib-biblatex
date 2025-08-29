@@ -26,15 +26,14 @@ Utilizes zotero web API v3 to export entire contents of \"My Library\" in biblat
 Local Zotero application must be running and listening on port 23119.
 
 Options
-  -o	Write the export to a given file spcified by argument in CWD.
+  -o	Write the export to a given location, in CWD, specified by argument.
 	If file already exists, it will be backed up first to a file with name suffixed by \".backup\".
-	(default: my_library.bib)
+	(default: stdout)
 
   -h	Display this help message.
 "
 # Default values
-# NAME=value
-OUTPUT_FILE='my_library.bib'
+OUTPUT_FILE='/dev/stdout'
 while getopts "o:h" OPT; do
     case $OPT in
 	o)
