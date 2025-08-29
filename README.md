@@ -1,6 +1,7 @@
 # zotero-my-lib-biblatex
 Utilizes zotero web API v3 to export entire contents of  "My Library" in biblatex format.
 Biblatex is ready usable by a multitude of other programs for whatever use-case.
+Hopefully, this is of some use to you.
 
 ## Dependencies
 Zotero  
