@@ -10,4 +10,4 @@ curl
 ## Installation
 Clone this repository and link/copy the main script somewere on your PATH.
 
-...Or just copy and paste the script ¯\\_(ツ)_/¯.
+...Or just copy and paste the script ¯\\_(ツ)\_/¯.
