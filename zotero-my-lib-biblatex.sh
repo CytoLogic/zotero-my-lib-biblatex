@@ -41,6 +41,7 @@ while getopts "o:h" OPT; do
 	    ;;
 	h)
 	    echo "$HELP_MSG"
+	    exit 0
 	    ;;
 
 	# handle invalid option 
