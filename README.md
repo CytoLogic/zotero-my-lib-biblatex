@@ -8,4 +8,6 @@ GNU Coreutils
 curl  
 
 ## Installation
-Just clone this repository and link/copy the main script somewere on your PATH.
+Clone this repository and link/copy the main script somewere on your PATH.
+
+...Or just copy and paste the script ¯\_(ツ)_/¯.
